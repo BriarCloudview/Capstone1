@@ -8,16 +8,15 @@ Professional Certificate in Machine Learning and Artificial Intelligence
 # Key Documents
 
 Data Sheet
-https://github.com/BriarCloudview/Capstone1/blob/data/DataSheet\_v01.docx
+https://github.com/BriarCloudview/Capstone1/blob/main/documents/data-sheet.pdf
 
 Model Card
-https://github.com/BriarCloudview/Capstone1/blob/main/ModelCard\_2026-04-13.docx
+https://github.com/BriarCloudview/Capstone1/blob/main/documents/model-card.pdf
 
 
+# Project Summary (Less Technical)
 
-# Project Summary
-
-## Project Overview
+## Overview
 
 This project involved a capstone challenge mimicking a **Bayesian optimization competition**. The core objective was to find the maximum values of **eight unknown "black-box" functions**. These functions simulated complex real-world tasks where testing is expensive or limited, such as **radiation detection, robot control, and drug discovery**.
 
@@ -61,6 +60,4 @@ We were free to use any machine learning method to guide our search. Strategies 
 ## Conclusion
 
 Success in this project was defined not just by achieving high scores, but by demonstrating **thoughtful, data-driven decision-making** through iterative reflection and strategy revision.
-
-
 
